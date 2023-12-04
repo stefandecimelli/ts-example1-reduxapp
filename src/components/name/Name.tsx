@@ -1,4 +1,3 @@
-import { t } from 'i18next'
 import { useAppSelector } from '../../store/hooks'
 import "./Name.css"
 import { useTranslation } from 'react-i18next'
