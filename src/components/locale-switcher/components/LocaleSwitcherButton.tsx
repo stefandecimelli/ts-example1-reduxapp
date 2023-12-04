@@ -14,7 +14,7 @@ export function LocaleSwitcherButton({
     return (
         <button
             onClick={e => setLocaleInUrl(locale)}
-            className={"bg-second-colour rounded text-white px-2 py-1 "}
+            className={"bg-second-colour rounded text-white px-2 pb-1"}
         >{locale}
         </button>
     )
