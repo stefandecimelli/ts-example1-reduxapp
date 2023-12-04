@@ -1,0 +1,30 @@
+* { 
+    /* Uncomment for debugging*/
+    /* border: 1px solid red !important; */
+}
+
+html {
+    background-color: #daece9;
+}
+
+body {
+    color: #3f2634;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #6483b2;
+    margin-bottom: 1rem !important;
+}
+
+strong {
+    color: #f59467;
+}
+
+button {
+    background-color: #3f2634 !important;
+    color: #daece9 !important;
+}
+
+button, input {
+    border-radius: 3px;
+}
