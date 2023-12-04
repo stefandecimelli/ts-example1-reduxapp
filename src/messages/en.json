@@ -1,5 +1,5 @@
 {
-    "greeting": "",
+    "greeting": "Hello ",
     "title": "Example App: Using TypeScript and Redux",
     "enter-your-name": "Enter your name: ",
     "send-button": "Send",

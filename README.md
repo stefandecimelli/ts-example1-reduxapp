@@ -11,3 +11,4 @@ Demponstrating a few things here:
     - each component directory containing a `__tests__` directory and a `.css` file
  3. Using global state dispatch, global state select, along wih local state usage in components
  4. Usage of tailwind as the preferred css library
+ 5. The use of multiple locales for language translations on the page
