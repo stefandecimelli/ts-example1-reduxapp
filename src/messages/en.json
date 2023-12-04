@@ -1,0 +1,8 @@
+{
+    "greeting": "",
+    "title": "Example App: Using TypeScript and Redux",
+    "enter-your-name": "Enter your name: ",
+    "send-button": "Send",
+    "result-text": "Here is what your state looks like:",
+    "extra-prompt-text": "human. Please enter your name above."
+}

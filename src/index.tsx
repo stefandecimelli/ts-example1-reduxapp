@@ -5,9 +5,10 @@ import store from './store';
 import App from './components';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
+import "./lib/i18n"
 
 const container = document.getElementById('root')!;
-const root = createRoot(container);
+const root = createRoot(container as HTMLElement);
 
 root.render(
   <React.StrictMode>
